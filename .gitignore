@@ -1,0 +1,15 @@
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+.pytest-tmp/
+.mypy_cache/
+.ruff_cache/
+*.py[cod]
+*.egg-info/
+work/
+logs/
+output/
+.artifact-runtime/
+.verification/
+

@@ -1,0 +1,20 @@
+excel_path: input/words.xlsx
+character_sheet_path: input/character_sheet.png
+output_dir: output
+work_dir: work
+logs_dir: logs
+sheet: null
+concurrency: 3
+resume: true
+overwrite: false
+keep_rejected: false
+max_regenerations: 2
+association_threshold: 40
+scene_model: gpt-5.6
+image_model: gpt-image-2
+qa_model: gpt-5.4-mini
+image_quality: low
+image_size: 1024x1024
+image_format: png
+image_background: transparent
+
